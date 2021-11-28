@@ -1,1 +1,7 @@
- 
+Reading symbols from a.out...
+(gdb) run
+Starting program: /home/a.out 
+enter your name
+sindhu
+your name is:sindhu[Inferior 1 (process 4529) exited normally]
+(gdb) 
